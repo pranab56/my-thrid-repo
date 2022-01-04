@@ -1,0 +1,53 @@
+body{
+background-color: lightskyblue;
+}
+.head{
+    display: flex;
+
+}
+
+.list ul li{
+    width: 50%;
+    display: inline;
+    margin: 20px 25px;
+   font-size: 20px;
+}
+    
+
+.head2{
+    display: flex;
+   
+}
+.img img{
+    width:50%;
+    margin-left: 350px;
+  
+}
+p{
+    font-size: 40px;
+    display: inline;
+}
+#color{
+    color:#1e21e4 ;
+    font-size: 20px;
+}
+.head2{
+    margin-left: 100px;
+   
+    
+}
+.button{
+    width: 120px;
+    height: 10px;
+    background-color:#94938f ;
+    text-decoration: none;
+    color: white;
+   padding: 10px 40px;
+}
+.font{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.list ul li:hover{
+color: tomato;
+}
